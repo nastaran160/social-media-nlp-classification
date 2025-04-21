@@ -1,0 +1,9 @@
+torch
+transformers
+scikit-learn
+pandas
+matplotlib
+seaborn
+nltk
+gensim
+dataclasses; python_version < '3.7'
